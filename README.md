@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `yarn start`
 
-<img src="https://img.shields.io/badge/html5-#E34F26?style=for-the-badge&logo=Html&logoColor=white">
+<img src="https://img.shields.io/badge/html5-#E34F26?style=for-the-badge&logo=HTML&logoColor=white">
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
